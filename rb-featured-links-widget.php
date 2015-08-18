@@ -1,14 +1,12 @@
 <?php
 /*
-* Plugin Name: Media Upload Widget
+* Plugin Name: Red Blue Featured Links Widget
 * Plugin URI: http://www.paulund.co.uk
-* Description: A widget that allows you to upload media from a widget
+* Description: A widget that allows you to upload media from a widget (Credit: Paul Underwood at http://www.paulund.co.uk for the framework I used)
 * Version: 1.0
-* Author: Paul Underwood
-* Author URI: http://www.paulund.co.uk
+* Author: Jon Schroeder
+* Author URI: http://redblue.us
 * License: GPL2
-
-Copyright 2012  Paul Underwood
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License,
